@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "img": "assets/img/properties/01.jpg",
+      "status": "For Sale",
+      "name":"Entire villa hosted by Wayan",
+      "location":"1123 Fictional St, San Francisco, CA 94103",
+      "description":"Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation",
+      "bedroom":"3",
+      "bathroom":"3",
+      "area":"62",
+      "money":"17,966"
+    },
+    {
+        "id": 2,
+        "img": "assets/img/properties/02.jpg",
+        "status": "For Rent",
+        "name":"Entire villa hosted by Wayan",
+        "location":"1123 Fictional St, San Francisco, CA 94103",
+        "description":"Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation",
+        "bedroom":"3",
+        "bathroom":"3",
+        "area":"62",
+        "money":"17,966"
+      },
+      {
+        "id": 3,
+        "img": "assets/img/properties/03.jpg",
+        "status": "For Sale",
+        "name":"Entire villa hosted by Wayan",
+        "location":"1123 Fictional St, San Francisco, CA 94103",
+        "description":"Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation",
+        "bedroom":"3",
+        "bathroom":"3",
+        "area":"62",
+        "money":"17,966"
+      }
+ 
+ 
+  ]

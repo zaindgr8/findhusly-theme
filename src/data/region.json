@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "img": "assets/img/regions/01.jpg",
+        "title": "Fox Hills",
+        "properties": "38 properties"
+    },
+    {
+        "id": 2,
+        "img": "assets/img/regions/02.jpg",
+        "title": "The Pearl - Qanat Quartier",
+        "properties": "33 properties"
+    },
+    {
+        "id": 3,
+        "img": "assets/img/regions/03.jpg",
+        "title": "Musheireb - Msheireb Downtown",
+        "properties": "20 properties"
+    },
+    {
+        "id": 4,
+        "img": "assets/img/regions/04.jpg",
+        "title": "Entertainment City",
+        "properties": "52 properties"
+    },
+    {
+        "id": 5,
+        "img": "assets/img/regions/05.jpg",
+        "title": "Al Erkyah",
+        "properties": "5 properties"
+    },
+    {
+        "id": 6,
+        "img": "assets/img/regions/06.jpg",
+        "title": "Waterfront District",
+        "properties": "40 properties"
+    }
+]

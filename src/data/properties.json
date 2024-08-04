@@ -1,0 +1,100 @@
+[
+    {
+      "id": 1,
+      "img": "assets/img/properties/01.jpg",
+      "status": "For Rent",
+      "name":"Belle Mare, Mauritius",
+      "location":"37 Ambleside Gardens, Ilford, IG4",
+      "bedroom":"3",
+      "bathroom":"3",
+      "area":"5x7",
+      "money":"31",
+      "day":"/night"
+    },
+    {
+        "id": 2,
+        "img": "assets/img/properties/02.jpg",
+        "status": "For Sale",
+        "name":"Koh Samui, Thailand",
+        "location":"37 Ambleside Gardens, Ilford, IG4",
+        "bedroom":"3",
+        "bathroom":"3",
+        "area":"5x7",
+        "money":"15,000",
+        "day":"/night"
+      },
+      {
+        "id": 3,
+        "img": "assets/img/properties/03.jpg",
+        "status": "For Rent",
+        "name":"Balian Beach, Indonesia",
+        "location":"37 Ambleside Gardens, Ilford, IG4",
+        "bedroom":"3",
+        "bathroom":"3",
+        "area":"5x7",
+        "money":"15,000",
+        "day":"/night"
+      },
+      {
+        "id": 4,
+        "img": "assets/img/properties/04.jpg",
+        "status": "For Sale",
+        "name":"Pantai Nyanyi, Indonesia",
+        "location":"37 Ambleside Gardens, Ilford, IG4",
+        "bedroom":"3",
+        "bathroom":"3",
+        "area":"5x7",
+        "money":"1,295,000",
+        "day":"/year"
+      },
+  
+      {
+        "id": 5,
+        "img": "assets/img/properties/05.jpg",
+        "status": "For Rent",
+        "name":"Belle Mare, Mauritius",
+        "location":"37 Ambleside Gardens, Ilford, IG4",
+        "bedroom":"3",
+        "bathroom":"3",
+        "area":"5x7",
+        "money":"31",
+        "day":"/night"
+      },
+      {
+          "id": 6,
+          "img": "assets/img/properties/06.jpg",
+          "status": "For Sale",
+          "name":"Koh Samui, Thailand",
+          "location":"37 Ambleside Gardens, Ilford, IG4",
+          "bedroom":"3",
+          "bathroom":"3",
+          "area":"5x7",
+          "money":"15,000",
+          "day":"/night"
+        },
+        {
+          "id": 7,
+          "img": "assets/img/properties/07.jpg",
+          "status": "For Rent",
+          "name":"Balian Beach, Indonesia",
+          "location":"37 Ambleside Gardens, Ilford, IG4",
+          "bedroom":"3",
+          "bathroom":"3",
+          "area":"5x7",
+          "money":"15,000",
+          "day":"/night"
+        },
+        {
+          "id": 8,
+          "img": "assets/img/properties/08.jpg",
+          "status": "For Sale",
+          "name":"Pantai Nyanyi, Indonesia",
+          "location":"37 Ambleside Gardens, Ilford, IG4",
+          "bedroom":"3",
+          "bathroom":"3",
+          "area":"5x7",
+          "money":"1,295,000",
+          "day":"/year"
+        }
+ 
+  ]

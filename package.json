@@ -1,0 +1,44 @@
+{
+  "name": "find-husly",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.2",
+    "@googlemaps/js-api-loader": "^1.16.2",
+    "@react-google-maps/api": "^2.19.2",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.2",
+    "jquery": "^3.7.1",
+    "magnific-popup": "^1.1.0",
+    "next": "^13.5.4-canary.0",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.9.0",
+    "react-countup": "^6.4.2",
+    "react-datepicker": "^4.19.0",
+    "react-dom": "18.2.0",
+    "react-owl-carousel": "^2.3.3",
+    "react-scroll-to-top": "^3.0.0",
+    "react-select": "^5.7.7",
+    "react-sticky-box": "^2.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.51.0",
+    "eslint-config-next": "13.5.4"
+  },
+  "browserslist": [
+    "chrome 64",
+    "edge 79",
+    "firefox 67",
+    "opera 51",
+    "safari 12"
+  ]
+  
+}
+
+

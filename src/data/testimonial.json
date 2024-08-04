@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "img":"assets/img/avatar/01.jpg",
+        "ratings": "(4.8/5)",
+        "title": "magnis dis parturient montes",
+        "description":"Lorem ipsum dolor amet consectetur cillum adipiscing elit sed do eiusmod.",
+        "name":"Naeem Khan",
+        "mention":"@naeemkhan",
+        "icon":""
+    },
+    {
+        "id": 2,
+        "img":"assets/img/avatar/02.jpg",
+        "ratings": "(4.8/5)",
+        "title": "aliquam ultrices sagittis orci a",
+        "description":"Lorem ipsum dolor amet consectetur cillum adipiscing elit sed do eiusmod.",
+        "name":"Asif Ikbal",
+        "mention":"@asifikbal",
+        "icon":""
+    },
+    {
+        "id": 3,
+        "img":"assets/img/avatar/03.jpg",
+        "ratings": "(4.8/5)",
+        "title": "sagittis id consectetur purus ut",
+        "description":"Lorem ipsum dolor amet consectetur cillum adipiscing elit sed do eiusmod.",
+        "name":"Tuhin Sorker",
+        "mention":"@tuhinsorker",
+        "icon":""
+    },
+    {
+        "id": 4,
+        "img":"assets/img/avatar/04.jpg",
+        "ratings": "(4.8/5)",
+        "title": "dictumst vestibulum rhoncus est",
+        "description":"Lorem ipsum dolor amet consectetur cillum adipiscing elit sed do eiusmod.",
+        "name":"Mubin Bhai",
+        "mention":"@mubinbhai",
+        "icon":""
+    },
+    {
+        "id": 5,
+        "img":"assets/img/avatar/05.jpg",
+        "ratings": "(4.8/5)",
+        "title": "ultrices mi tempus imperdiet nulla",
+        "description":"Lorem ipsum dolor amet consectetur cillum adipiscing elit sed do eiusmod.",
+        "name":"Mehedi Hasan",
+        "mention":"@mirandaholmes",
+        "icon":""
+    },
+    {
+        "id": 6,
+        "img":"assets/img/avatar/06.jpg",
+        "ratings": "(4.8/5)",
+        "title": "risus ultricies tristique nulla aliquet",
+        "description":"Lorem ipsum dolor amet consectetur cillum adipiscing elit sed do eiusmod.",
+        "name":"Miranda Holmes",
+        "mention":"@mirandaholmes",
+        "icon":""
+    }
+]

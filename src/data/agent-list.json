@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "img": "assets/img/avatar/01.jpg",
+        "name": "Alexander Kaminski",
+        "designation": "Property Consultant",
+        "description":"Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation",
+        "activeListings":"7",
+        "experience":"2019",
+        "areas":"Brazi",
+        "language":"English, Brazil",
+        "rent": "193",
+        "sell": "633",
+        "commercial": "10"
+    },
+    {
+        "id": 2,
+        "img": "assets/img/avatar/02.jpg",
+        "name": "Edwin Martins",
+        "designation": "Property Advisor",
+        "description":"Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation",
+        "activeListings":"7",
+        "experience":"2019",
+        "areas":"Brazi",
+        "language":"English, Brazil",
+        "rent": "193",
+        "sell": "633",
+        "commercial": "10"
+    },
+    {
+        "id": 3,
+        "img": "assets/img/avatar/03.jpg",
+        "name": "Wade Warren",
+        "designation": "Property Manager",
+        "description":"Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation",
+        "activeListings":"7",
+        "experience":"2019",
+        "areas":"Brazi",
+        "language":"English, Brazil",
+        "rent": "193",
+        "sell": "633",
+        "commercial": "10"
+    },
+    {
+        "id": 4,
+        "img": "assets/img/avatar/04.jpg",
+        "name": "John Carter",
+        "designation": "Property Consultan",
+        "description":"Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation",
+        "activeListings":"7",
+        "experience":"2019",
+        "areas":"Brazi",
+        "language":"English, Brazil",
+        "rent": "193",
+        "sell": "633",
+        "commercial": "10"
+    },
+    {
+        "id": 5,
+        "img": "assets/img/avatar/05.jpg",
+        "name": "Sophie Moore",
+        "designation": "Property Consultan",
+        "description":"Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation",
+        "activeListings":"7",
+        "experience":"2019",
+        "areas":"Brazi",
+        "language":"English, Brazil",
+        "rent": "193",
+        "sell": "633",
+        "commercial": "10"
+    },
+    {
+        "id": 6,
+        "img": "assets/img/avatar/06.jpg",
+        "name": "Naeem Khan",
+        "designation": "Property Consultan",
+        "description":"Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation",
+        "activeListings":"7",
+        "experience":"2019",
+        "areas":"Brazi",
+        "language":"English, Brazil",
+        "rent": "193",
+        "sell": "633",
+        "commercial": "10"
+    }
+ 
+]
